@@ -1,0 +1,16 @@
+{
+    "127.0.0.1:5555": {
+        "bytesLength": 35,
+        "bitrate": 10485760,
+        "bounds": {
+            "width": 1200,
+            "height": 1500
+        },
+        "maxFps": 30,
+        "iFrameInterval": 5,
+        "sendFrameMeta": false,
+        "lockedVideoOrientation": -1,
+        "displayId": 0,
+        "fitToScreen": false
+    }
+}
